@@ -2,3 +2,4 @@
 USE SAKILA;
 
 -- Listar tablas
+DESCRIBE film;
